@@ -117,4 +117,4 @@ Execute the program
 ![VALIDATOR](./Validator.png)
 
 # RESULT
-Thus,a HTML webpage is created to display imetable.
+Thus,a HTML webpage is created to display timetable.
